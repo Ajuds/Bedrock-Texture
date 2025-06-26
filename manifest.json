@@ -1,0 +1,17 @@
+{
+  "format_version": 2,
+  "header": {
+       "description": "Texture by JP 7B",
+       "name": "Music Personalizadas -  1.21.x",
+       "uuid": "6a5a79c8-2d54-4538-ba83-2912ad1ffc1e",
+       "version": [1, 1, 1],
+       "min_engine_version": [1, 21, 0]
+  },
+  "modules": [
+       {
+            "type": "resources",
+            "uuid": "d74dfb80-c9ef-42ee-855d-1605a4f38361",
+            "version": [1, 1, 1]
+       }
+  ]
+}
